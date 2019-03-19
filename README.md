@@ -57,10 +57,7 @@ much more acceptable error.
   Coarse Aggregate are stones whose sizes is greater than 4.75mm . Fine Aggregate are natural sand or crushed stones whose size is less than 4.75mm.   
 
 * Age -- quantitative -- Day (1~365) :
-
  The amount of time taken to harden the mixture into concrete. The strength of the concrete  increases as more number of days pass by
-
-
 ## Output Variable (desired Target):
  * Concrete compressive strength -- quantitative -- MPa : Compressive Strength is the maximum amount of load or pressure at which the concrete would break. 
 
