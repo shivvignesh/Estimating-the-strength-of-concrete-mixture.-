@@ -68,8 +68,8 @@ much more acceptable error.
  Univariate Linear Regression | 0.13738
  Multivariate two features | 0.17730
  Linear Regression using Sklearn | 0.13093
- Neural Networks | 0.078636
+ Neural Networks | 0.073981
 
 ## Error graph : 
-![Error vs iterations](download.png)
+![Error vs iterations](download(1).png)
 
