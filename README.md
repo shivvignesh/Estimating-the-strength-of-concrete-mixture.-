@@ -71,5 +71,5 @@ much more acceptable error.
  Neural Networks | 0.073981
 
 ## Error graph : 
-![Error vs iterations](new_error.png)
+![Error vs iterations](download.png)
 
