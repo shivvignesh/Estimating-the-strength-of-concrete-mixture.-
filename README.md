@@ -64,7 +64,7 @@ much more acceptable error.
 
 ## Models Trained on:
  Training Model | Root Mean Squared error
- -----------------------------------------
+ ---------------|--------------------------
  Univariate Linear Regression | 0.13738
  Multivariate two features | 0.17730
  Linear Regression using Sklearn | 0.13093
